@@ -1,2 +1,1 @@
-augustoTest1489.90
-aluracord_camp
+# Application: https://project-alura-cord.vercel.app/
