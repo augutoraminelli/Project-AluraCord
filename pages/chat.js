@@ -5,7 +5,6 @@ import { useState } from 'react';
 import appConfig from '../config.json';
 import { useRouter } from 'next/router';
 import { ButtonSendSticker } from '../src/components/ButtonSendSticker';
-import logo from '../public/logo.png';
 
 // como fazer AJAX = usar aba network
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0MzM3Nzg4MiwiZXhwIjoxOTU4OTUzODgyfQ.fbJ74kjoUkVEXszN-Orw2eiXDIl4GMjTUmPTev7c2qE';
@@ -79,8 +78,7 @@ export default function ChatPage() {
             styleSheet={{
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
                 backgroundColor: appConfig.theme.colors.primary[500],
-                backgroundImage: // use logo here instead of backgroundImage to avoid the blur effect on the background image 
-                    `url(${logo})`,
+                backgroundImage: `url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fvetorlab&psig=AOvVaw3xQdVonQecQW0oy-k11_K1&ust=1649199818551000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCusJ3C-_YCFQAAAAAdAAAAABAD)`,
                 backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 color: appConfig.theme.colors.neutrals['000']
             }}
