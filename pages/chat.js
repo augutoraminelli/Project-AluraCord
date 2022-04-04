@@ -77,8 +77,8 @@ export default function ChatPage() {
         <Box
             styleSheet={{
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
-                backgroundColor: appConfig.theme.colors.primary[500],
-                backgroundImage: `url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fvetorlab&psig=AOvVaw3xQdVonQecQW0oy-k11_K1&ust=1649199818551000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCusJ3C-_YCFQAAAAAdAAAAABAD)`,
+                // backgroundColor: appConfig.theme.colors.primary[500],
+                backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/09/think-outside-the-box-plaque.jpg)',
                 backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 color: appConfig.theme.colors.neutrals['000']
             }}

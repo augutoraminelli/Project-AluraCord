@@ -34,7 +34,7 @@ export default function PaginaInicial() {
         styleSheet={{
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           // backgroundColor: appConfig.theme.colors.primary[500],
-          backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/camping-near-mount-gongga.jpg)',
+          backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/09/think-outside-the-box-plaque.jpg)',
           backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
         }}
       >
