@@ -5,6 +5,7 @@ import { useState } from 'react';
 import appConfig from '../config.json';
 import { useRouter } from 'next/router';
 import { ButtonSendSticker } from '../src/components/ButtonSendSticker';
+import logo from '../public/logo.png';
 
 // como fazer AJAX = usar aba network
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0MzM3Nzg4MiwiZXhwIjoxOTU4OTUzODgyfQ.fbJ74kjoUkVEXszN-Orw2eiXDIl4GMjTUmPTev7c2qE';
@@ -78,7 +79,8 @@ export default function ChatPage() {
             styleSheet={{
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
                 backgroundColor: appConfig.theme.colors.primary[500],
-                backgroundImage: `url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/camping-near-mount-gongga.jpg)`,
+                backgroundImage: // use logo here instead of backgroundImage to avoid the blur effect on the background image 
+                    `url(${logo})`,
                 backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 color: appConfig.theme.colors.neutrals['000']
             }}
