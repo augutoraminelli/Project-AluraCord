@@ -2,9 +2,17 @@
 
 ## Link Application: https://project-alura-cord.vercel.app/
 
-App Web/ React/Next / Front-end Developer
+## App Web/ React/Next / Front-end Developer
 
-TAG - React, Next, Styled Component, JavaScript, Git, Vercel, Supabase
+## Stack do projeto
+
+* React 
+* Next
+* Styled Component
+* JavaScript
+* Git
+* Vercel
+* Supabase
 
 Criei um pequeno projeto de estudos, do design ao deploy, como um desafio Full Stack,
 desenvolvi o Front-end e conectando com DB Supabase, projeto guiado com professor.
