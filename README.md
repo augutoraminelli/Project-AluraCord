@@ -1,8 +1,8 @@
-## Boas vindas ao repositório do projeto Aluracord!
+# Boas vindas ao repositório do projeto Aluracord!
 
 ## Link Application: https://project-alura-cord.vercel.app/
 
-## App Web/ React/Next / Front-end Developer
+### App Web/ React/Next / Front-end Developer
 
 ## Stack do projeto
 
