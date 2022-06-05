@@ -1,5 +1,7 @@
 # Boas vindas ao repositório do projeto Aluracord!
 
+![Captura de Tela 2022-06-05 às 15 11 06](https://user-images.githubusercontent.com/83237861/172064536-d3bf5980-863b-4ce6-a570-5896cf87cbfe.png)
+
 ## Link Application: https://project-alura-cord.vercel.app/
 
 ### App Web/ React/Next / Front-end Developer
