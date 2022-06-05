@@ -1,4 +1,4 @@
-# Projeto AluraCord
+## Boas vindas ao repositório do projeto Aluracord!
 
 ## Link Application: https://project-alura-cord.vercel.app/
 
@@ -24,6 +24,8 @@ desenvolvi o Front-end e conectando com DB Supabase, projeto guiado com professo
  * Para o design da aplicação utilizei Styled Component
  * Configurar e conectar o DB Supabase
  * Utilizar o Versel para fazer o deploy da aplicação
+
+## Objetivo da aplicação
 
 O objetivo do projeto Front-end foi desenvolver um chat de mensagens, o diferencial do projeto
 foi conectar com API disponibilizada pelo Github, e assim no momento do Login, colocando os
