@@ -14,7 +14,9 @@
 * Vercel
 * Supabase
 
-Criei um pequeno projeto de estudos, do design ao deploy, como um desafio Full Stack,
+## Desafio
+
+Criar um pequeno projeto de estudos, do design ao deploy, como um desafio Full Stack,
 desenvolvi o Front-end e conectando com DB Supabase, projeto guiado com professor.
 
 As principais tarefas do projeto foram:
